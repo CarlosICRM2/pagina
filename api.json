@@ -1,0 +1,74 @@
+[
+    {
+        "precio":20.00,
+        "id": 1,
+        "title": "Cacahuates japoneses",
+        "thumbnailUrl": "https://unheroical-firearm.000webhostapp.com/img/Cacahuate_japones.webp"
+    },
+    {
+        "precio":15.00,
+        "id": 2,
+        "title": "Adobadas",
+        "thumbnailUrl": "https://unheroical-firearm.000webhostapp.com/img/adobadas.jpg"
+    },
+    {
+        "precio":15.00,
+        "id": 3,
+        "title": "Chiplotles",
+        "thumbnailUrl": "https://unheroical-firearm.000webhostapp.com/img/chipotles.webp"
+    },
+    {
+        "precio": 20.00,
+        "id": 4,
+        "title": "Chips verdes",
+        "thumbnailUrl": "https://unheroical-firearm.000webhostapp.com/img/chips%20verdes.webp"
+    },
+    {
+        "precio":20.00,
+        "id": 5,
+        "title": "Crunch rojos",
+        "thumbnailUrl": "https://unheroical-firearm.000webhostapp.com/img/crunch%20rojos.jpg"
+    },
+    {
+        "precio":20.00,
+        "id": 6,
+        "title": "Crema especias",
+        "thumbnailUrl": "https://unheroical-firearm.000webhostapp.com/img/esoecias.jpg"
+    },
+    {
+        "precio":10.00,
+        "id": 7,
+        "title": "Sopa",
+        "thumbnailUrl": "https://m.media-amazon.com/images/I/51M3kITp9WL._AC_.jpg"
+    },
+    {
+        "precio":15.00,
+        "id": 8,
+        "title": "Limon",
+        "thumbnailUrl": "https://unheroical-firearm.000webhostapp.com/img/limon.jpg"
+    },
+    {
+        "precio":23.00,
+        "id": 9,
+        "title": "Salsa Buffalo",
+        "thumbnailUrl": "https://m.media-amazon.com/images/I/41fA+btRv-L._AC_.jpg"
+    },
+    {
+        "precio":20.00,
+        "id": 10,
+        "title": "Ruflles verdes",
+        "thumbnailUrl": "https://unheroical-firearm.000webhostapp.com/img/rufles%20verdes.jpg"
+    },
+    {
+        "precio":15.00,
+        "id": 11,
+        "title": "Takis azules",
+        "thumbnailUrl": "https://unheroical-firearm.000webhostapp.com/img/takis%20azules.jpg"
+    },
+    {
+        "precio":15.00,
+        "id": 12,
+        "title": "Takis verdes",
+        "thumbnailUrl": "https://unheroical-firearm.000webhostapp.com/img/takis%20verdes.webp"
+    }
+]
